@@ -1,0 +1,217 @@
+﻿Year,Crime type,Crime count
+2001,Robbery,39802
+2002,Robbery,37528
+2003,Robbery,35024
+2004,Robbery,36916
+2005,Robbery,35346
+2006,Robbery,36912
+2007,Robbery,38272
+2008,Robbery,41044
+2009,Robbery,44818
+2010,Robbery,46786
+2011,Robbery,49400
+2012,Robbery,54686
+2001,Riots,152444
+2002,Riots,137890
+2003,Riots,114668
+2004,Riots,119942
+2005,Riots,112470
+2006,Riots,113282
+2007,Riots,119830
+2008,Riots,132036
+2009,Riots,125884
+2010,Riots,135142
+2011,Riots,137000
+2012,Riots,149266
+2001,Murder,72404
+2002,Murder,70580
+2003,Murder,65432
+2004,Murder,67216
+2005,Murder,65438
+2006,Murder,64962
+2007,Murder,64636
+2008,Murder,65532
+2009,Murder,64738
+2010,Murder,66670
+2011,Murder,68610
+2012,Murder,68868
+2001,Kidnapping & Abduction,44974
+2002,Kidnapping & Abduction,43700
+2003,Kidnapping & Abduction,39984
+2004,Kidnapping & Abduction,46654
+2005,Kidnapping & Abduction,45664
+2006,Kidnapping & Abduction,47982
+2007,Kidnapping & Abduction,55122
+2008,Kidnapping & Abduction,60522
+2009,Kidnapping & Abduction,67720
+2010,Kidnapping & Abduction,76880
+2011,Kidnapping & Abduction,89328
+2012,Kidnapping & Abduction,95184
+2001,Cheating,89454
+2002,Cheating,92542
+2003,Cheating,94956
+2004,Cheating,103878
+2005,Cheating,107250
+2006,Cheating,116152
+2007,Cheating,130652
+2008,Cheating,133158
+2009,Cheating,145436
+2010,Cheating,157998
+2011,Cheating,175312
+2012,Cheating,188406
+2001,Burglary,202364
+2002,Burglary,192922
+2003,Burglary,185654
+2004,Burglary,184980
+2005,Burglary,180216
+2006,Burglary,183332
+2007,Burglary,182436
+2008,Burglary,187484
+2009,Burglary,184140
+2010,Burglary,180358
+2011,Burglary,185008
+2012,Burglary,185784
+2001,Auto Theft,127426
+2002,Auto Theft,133336
+2003,Auto Theft,138614
+2004,Auto Theft,161364
+2005,Auto Theft,171418
+2006,Auto Theft,181902
+2007,Auto Theft,200510
+2008,Auto Theft,240064
+2009,Auto Theft,280054
+2010,Auto Theft,294950
+2011,Auto Theft,302400
+2012,Auto Theft,308702
+2001,Attempt To Murder,63046
+2002,Attempt To Murder,60760
+2003,Attempt To Murder,51884
+2004,Attempt To Murder,55780
+2005,Attempt To Murder,56062
+2006,Attempt To Murder,54460
+2007,Attempt To Murder,54802
+2008,Attempt To Murder,57196
+2009,Attempt To Murder,58076
+2010,Attempt To Murder,58842
+2011,Attempt To Murder,62770
+2012,Attempt To Murder,70276
+2001,Arson,21068
+2002,Arson,23640
+2003,Arson,18730
+2004,Arson,17274
+2005,Arson,16902
+2006,Arson,16960
+2007,Arson,18048
+2008,Arson,18498
+2009,Arson,17472
+2010,Arson,17016
+2011,Arson,18128
+2012,Arson,23672
+2012,Robbery,54686
+2011,Robbery,49400
+2010,Robbery,46786
+2009,Robbery,44818
+2008,Robbery,41044
+2007,Robbery,38272
+2006,Robbery,36912
+2005,Robbery,35346
+2004,Robbery,36916
+2003,Robbery,35024
+2002,Robbery,37528
+2001,Robbery,39802
+2012,Riots,149266
+2011,Riots,137000
+2010,Riots,135142
+2009,Riots,125884
+2008,Riots,132036
+2007,Riots,119830
+2006,Riots,113282
+2005,Riots,112470
+2004,Riots,119942
+2003,Riots,114668
+2002,Riots,137890
+2001,Riots,152444
+2012,Murder,68868
+2011,Murder,68610
+2010,Murder,66670
+2009,Murder,64738
+2008,Murder,65532
+2007,Murder,64636
+2006,Murder,64962
+2005,Murder,65438
+2004,Murder,67216
+2003,Murder,65432
+2002,Murder,70580
+2001,Murder,72404
+2012,Kidnapping & Abduction,95184
+2011,Kidnapping & Abduction,89328
+2010,Kidnapping & Abduction,76880
+2009,Kidnapping & Abduction,67720
+2008,Kidnapping & Abduction,60522
+2007,Kidnapping & Abduction,55122
+2006,Kidnapping & Abduction,47982
+2005,Kidnapping & Abduction,45664
+2004,Kidnapping & Abduction,46654
+2003,Kidnapping & Abduction,39984
+2002,Kidnapping & Abduction,43700
+2001,Kidnapping & Abduction,44974
+2012,Cheating,188406
+2011,Cheating,175312
+2010,Cheating,157998
+2009,Cheating,145436
+2008,Cheating,133158
+2007,Cheating,130652
+2006,Cheating,116152
+2005,Cheating,107250
+2004,Cheating,103878
+2003,Cheating,94956
+2002,Cheating,92542
+2001,Cheating,89454
+2012,Burglary,185784
+2011,Burglary,185008
+2010,Burglary,180358
+2009,Burglary,184140
+2008,Burglary,187484
+2007,Burglary,182436
+2006,Burglary,183332
+2005,Burglary,180216
+2004,Burglary,184980
+2003,Burglary,185654
+2002,Burglary,192922
+2001,Burglary,202364
+2012,Auto Theft,308702
+2011,Auto Theft,302400
+2010,Auto Theft,294950
+2009,Auto Theft,280054
+2008,Auto Theft,240064
+2007,Auto Theft,200510
+2006,Auto Theft,181902
+2005,Auto Theft,171418
+2004,Auto Theft,161364
+2003,Auto Theft,138614
+2002,Auto Theft,133336
+2001,Auto Theft,127426
+2012,Attempt To Murder,70276
+2011,Attempt To Murder,62770
+2010,Attempt To Murder,58842
+2009,Attempt To Murder,58076
+2008,Attempt To Murder,57196
+2007,Attempt To Murder,54802
+2006,Attempt To Murder,54460
+2005,Attempt To Murder,56062
+2004,Attempt To Murder,55780
+2003,Attempt To Murder,51884
+2002,Attempt To Murder,60760
+2001,Attempt To Murder,63046
+2012,Arson,23672
+2011,Arson,18128
+2010,Arson,17016
+2009,Arson,17472
+2008,Arson,18498
+2007,Arson,18048
+2006,Arson,16960
+2005,Arson,16902
+2004,Arson,17274
+2003,Arson,18730
+2002,Arson,23640
+2001,Arson,21068
